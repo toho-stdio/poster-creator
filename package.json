@@ -1,0 +1,9 @@
+{
+  "name": "lich-anh-ram-mong-mot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "test:smoke": "node tests/smoke.mjs"
+  }
+}
